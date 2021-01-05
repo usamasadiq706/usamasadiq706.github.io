@@ -6,9 +6,9 @@ Hi, you have reached usama sadiq's personal webpage.
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="main_image.jpg">
 
-[//]: # (This is comment.)
+[//]: # (This is how a comment is added in markdown.)
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
