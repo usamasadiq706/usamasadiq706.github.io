@@ -1,6 +1,12 @@
+################################################################
+# This is configuration file (.yml) for jekyll themes.
+################################################################
+
+
 
 # title: Researcher
 # url: "https://ankitsultana.com"
+
 title: Usama Sadiq
 # url: ""
 
@@ -17,21 +23,25 @@ tracking_id: #
 
 
 # These are footer settings. These appears at the end of page.
+
 # footer: yes
 # footer_url: "https://github.com/ankitsultana"
 # footer_text: "Page design by Ankit Sultana"
+
 footer: yes
 footer_url: "https://github.com/usamasadiq706"
 footer_text: "Page modified by Usama Sadiq"
 
-
+# sass settings.
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+#  - name: "About"
+#    link: "/researcher/"
+ - name: "GitHub"
+   link: "https://github.com/usamasadiq706"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
