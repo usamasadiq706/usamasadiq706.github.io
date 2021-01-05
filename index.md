@@ -2,17 +2,18 @@
 layout: default
 ---
 
+[//]: # (This is how a comment is added in markdown.)
+
 Hi, you have reached usama sadiq's personal webpage.
 
 ## About Me
 
-
 [//]: # (Edit this for customizing the profile-picture.)
 
 [//]: # (<img class="profile-picture" src="main_image.jpg">)
-<img  src="main_image.jpg">
 
-[//]: # (This is how a comment is added in markdown.)
+<img class="profile-picture" src="main_image.jpg" alt="Profile Image" > [//]: # Other settings of image are profile-pictur class in typography.css file.
+
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
