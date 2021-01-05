@@ -37,8 +37,8 @@
         font-style: italic;
     }
     
-    
-/*    .profile-picture {
+/*    
+    .profile-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
@@ -59,28 +59,25 @@
         text-align: center;
         width: 100%;
     }
-}
-
+} 
+    
 */
 
 
 
 
-
-
-
-
-
+// I Cutomized the profile-pictur class.
+    
 .profile-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
-        float: right;
-        border-radius: 10px;
+        float: left;
+        border-radius: 10%;
         p & {
-            padding: 0;
-            margin: 0;
+            padding: 10px;
+            margin: 10px;
         }
         @media (max-width: $small-width) {
             img {
@@ -88,6 +85,7 @@
             }
         }
     }
+    
     img {
         text-align: center;
         width: 100%;
