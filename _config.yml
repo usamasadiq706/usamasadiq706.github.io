@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://ankitsultana.com"
-# baseurl: "/researcher"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About Me"
+ - name: "About"
    link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
