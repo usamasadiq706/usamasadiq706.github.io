@@ -1,6 +1,8 @@
 
-title: Researcher
-url: "https://ankitsultana.com"
+# title: Researcher
+# url: "https://ankitsultana.com"
+title: Usama Sadiq
+# url: ""
 
 # Keep this line always comment.
 # baseurl: "/researcher"
@@ -13,9 +15,15 @@ remote_theme: usamasadiq706/usamasadiq706.github.io@gem
 
 tracking_id: #
 
+
+# These are footer settings. These appears at the end of page.
+# footer: yes
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page design by Ankit Sultana"
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/usamasadiq706"
+footer_text: "Page modified by Usama Sadiq"
+
 
 sass:
     style: compressed
