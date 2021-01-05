@@ -68,16 +68,16 @@
 
 // I Cutomized the profile-pictur class.
     
-.profile-picture {
+    .profile-picture {
         height: $image-size;
         width: $image-size;
-        position: relative;
+        position: fixed;
         margin: -10px 0 0 15px;
         float: left;
         border-radius: 10%;
         p & {
-            padding: 10px;
-            margin: 10px;
+            padding: 0;
+            margin: 0;
         }
         @media (max-width: $small-width) {
             img {
