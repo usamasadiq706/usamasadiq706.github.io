@@ -74,6 +74,7 @@
         position: fixed;
         margin: -10px 0 0 15px;
         float: right;
+        clear: right; // stop text warpping around image.
         border-radius: 10%;
         p & {
             padding: 0;
