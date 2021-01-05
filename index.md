@@ -6,7 +6,11 @@ Hi, you have reached usama sadiq's personal webpage.
 
 ## About Me
 
-<img class="profile-picture" src="main_image.jpg">
+
+[//]: # (Edit this for customizing the profile-picture.)
+
+[//]: # (<img class="profile-picture" src="main_image.jpg">)
+<img  src="main_image.jpg">
 
 [//]: # (This is how a comment is added in markdown.)
 
