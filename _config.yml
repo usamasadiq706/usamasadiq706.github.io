@@ -1,10 +1,16 @@
+
 title: Researcher
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+
+# Keep this line always comment.
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher@gem
+
+# remote_theme: ankitsultana/researcher@gem
+remote_theme: usamasadiq706/usamasadiq706.github.io@gem
+
 tracking_id: #
 
 footer: yes
