@@ -72,9 +72,9 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -80px 200px 50px 50px;
+        margin: -80px -200px 50px 50px;
         float: right;
-//        clear: right; // stop text warpping around image.
+//        clear: left; // stop text warpping around image.
         border-radius: 10%;
         p & {
             padding: 0;
