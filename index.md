@@ -10,17 +10,15 @@ Hi, you have reached usama sadiq's personal webpage.
 
 [//]: # (Edit this for customizing the profile-picture.)
 [//]: # (Other settings of image are profile-pictur class in typography.css file.)
-
 <img class="profile-picture" src="main_image.jpg" alt="Profile Image" > 
 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am Usama Sadiq. I am associate researcher at [Vision Processing Lab](http://vispro.itu.edu.pk/) at Informtation Technology University [ITU](https://itu.edu.pk/), Lahore.
+This is my personal webpage where I like to share about my research work, projects and other interesting stuud like my blogposts (if any).
 
 ## Research Interest
+Generally, I am interested in mathematics and programming. Specifically, my research interest includes Machine Learning , Deep Learning especciallly deep learning on geometric or non-euclidean data spaces and Computer Vision Geometry. I have also worked on 3D image reconstruction. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## News about my Blog Posts
 
