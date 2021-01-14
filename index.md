@@ -5,6 +5,7 @@ layout: default
 [//]: # (This is how a comment is added in markdown.)
 
 Hi, you have reached usama sadiq's personal webpage.
+Caution! Page is under construction.
 
 ## About Me
 
@@ -14,10 +15,10 @@ Hi, you have reached usama sadiq's personal webpage.
 
 
 Hi! I am Usama Sadiq. I am associate researcher at [Vision Processing Lab](http://vispro.itu.edu.pk/) at Informtation Technology University [ITU](https://itu.edu.pk/), Lahore.
-This is my personal webpage where I like to share about my research work, projects and other interesting stuud like my blogposts (if any).
+This is my personal webpage where I like to share about my research work, projects and other interesting stuff that I like to do and share with others.
 
 ## Research Interest
-Generally, I am interested in mathematics and programming. Specifically, my research interest includes Machine Learning , Deep Learning especciallly deep learning on geometric or non-euclidean data spaces and Computer Vision Geometry. I have also worked on 3D image reconstruction. 
+Generally, I am interested in mathematics and programming. Specifically, my research interest includes Machine Learning, Deep Learning especiallly deep learning on geometric or non-euclidean data spaces and Computer Vision Geometry. I have also worked on 3D image reconstruction and image matching during my MS research work.  
 
 
 ## News about my Blog Posts
@@ -26,8 +27,9 @@ I will update about my most recent blog posts here.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Usama S. ............................................................
+2. Usama S. ............................................................
+3. Usama S. ............................................................
 
 ## Typography
 
@@ -45,11 +47,17 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
-
-> To a great mind, nothing is little
+## This is my favorite quote!
+> All models are wrong, but some are useful.
+                            George E.P. Box
+                            
+                            
+## Associations:
+1. ...............................................
+2. ...............................................
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Reference # 1: ...................................................
+* Reference # 2: ...................................................
+* Reference # 3: ...................................................
