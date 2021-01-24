@@ -12,7 +12,7 @@ Caution! Page is under construction.
 [//]: # (Edit this for customizing the profile-picture.)
 [//]: # (Other settings of image are profile-pictur class in typography.css file.)
 
-<img class="profile-picture" src="temp_profile_image.jpg" alt="Profile Image" > 
+<img class="profile-picture" src="temp_image.png" alt="Profile Image" > 
 
 Hi! I am Usama Sadiq. I am associate researcher at [Vision Processing Lab](http://vispro.itu.edu.pk/) at Informtation Technology University [ITU](https://itu.edu.pk/), Lahore.
 This is my personal webpage where I like to share about my research work, projects and other interesting stuff that I like to do and share with others.
